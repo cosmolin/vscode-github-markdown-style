@@ -22,3 +22,11 @@
     "/path/to/github-markdown.css"
 ]
 ```
+
+或
+
+```json
+"markdown.styles": [
+    "https://cosmolin.github.io/vscode-github-markdown-style/github-markdown.css"
+]
+```
